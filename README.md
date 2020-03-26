@@ -6,6 +6,6 @@
 * 数据清洗
 * 数据可视化
 
-也可以通过我的blog看到它——
+基于的python包：pandas,numpy,matplotlib
 
-[MyBlog](https://www.cnblogs.com/rsmx/)
+也可以通过我的blog看到它——[MyBlog](https://www.cnblogs.com/rsmx/)
